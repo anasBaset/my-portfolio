@@ -1,10 +1,10 @@
 {
     "portfolio":[
         {
-            "cover":"/portfolio/1/one.png",
-            "title":"GGWP",
+            "cover":"/portfolio/1/one1.png",
+            "title":"VanLife",
             "description":"React, JSX, CSS",
-            "url":"https://www.google.com/"
+            "url":"https://vanlife-two.vercel.app/"
         },
         {
             "cover":"/portfolio/1/one.png",
