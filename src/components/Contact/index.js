@@ -23,7 +23,7 @@ const Contact = () => {
     const sendEmail = (e) => {
         e.preventDefault();
 
-        emailjs.sendForm('service_o63h8lj', 'template_uawewuy', refForm.current, 'ytWqG3EksPu8j11Ws')
+        emailjs.sendForm('service_o63h8lj', 'template_zye859t', refForm.current, 'XFVDIFAWWqnPyvZaF')
             .then(() => {
                 alert('Email sent successfully!');
                 window.location.reload(false)
@@ -51,7 +51,12 @@ const Contact = () => {
                         <form ref={refForm} onSubmit={sendEmail}>
                             <ul>
                                 <li className="half">
-                                    <input placeholder="Name" type="text" name="name" required />
+                                    <input
+                                        placeholder="Name"
+                                        type="text"
+                                        name="name"
+                                        required
+                                    />
                                 </li>
                                 <li className="half">
                                     <input
