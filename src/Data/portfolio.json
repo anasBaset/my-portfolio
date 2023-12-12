@@ -2,7 +2,7 @@
     "portfolio":[
         {
             "cover":"/portfolio/1/one1.png",
-            "title":"GGWP",
+            "title":"VanLife website",
             "description":"React, JSX, CSS",
             "url":"https://vanlife-two.vercel.app/vans"
         },

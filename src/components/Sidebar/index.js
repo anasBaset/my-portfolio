@@ -88,14 +88,14 @@ const Sidebar = () => {
                     </a>
                 </li>
 
-                <li>
+                {/* <li>
                     <a
                         target='_blank'
                         rel='noreferrer'
                         href='https://twitter.com/_a02n'>
                         <FontAwesomeIcon icon={faTwitter} color="#4d4d4e" />
                     </a>
-                </li>
+                </li> */}
 
             </ul>
             <FontAwesomeIcon
