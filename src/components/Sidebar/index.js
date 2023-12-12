@@ -88,14 +88,14 @@ const Sidebar = () => {
                     </a>
                 </li>
 
-                <li>
-                    <a
-                        target='_blank'
-                        rel='noreferrer'
-                        href='https://www.instagram.com/a.02n/'>
-                        <FontAwesomeIcon icon={faInstagram} color="#4d4d4e" />
-                    </a>
-                </li>
+                // <li>
+                //     <a
+                //         target='_blank'
+                //         rel='noreferrer'
+                //         href='https://www.instagram.com/a.02n/'>
+                //         <FontAwesomeIcon icon={faInstagram} color="#4d4d4e" />
+                //     </a>
+                // </li>
 
             </ul>
             <FontAwesomeIcon
