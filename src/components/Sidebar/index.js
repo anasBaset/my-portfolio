@@ -4,7 +4,7 @@ import LogoS from '../../assets/images/logo-a.png'
 import LogoSubtitle from '../../assets/images/logo-sub.png'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faHome, faUser, faEnvelope, faSuitcase, faBars, faClose } from '@fortawesome/free-solid-svg-icons'
-import { faLinkedin, faGithub, faTwitter } from '@fortawesome/free-brands-svg-icons'
+import { faLinkedin, faGithub, faInstagram } from '@fortawesome/free-brands-svg-icons'
 import { useState } from 'react'
 
 
@@ -92,8 +92,8 @@ const Sidebar = () => {
                     <a
                         target='_blank'
                         rel='noreferrer'
-                        href='https://twitter.com/_a02n'>
-                        <FontAwesomeIcon icon={faTwitter} color="#4d4d4e" />
+                        href='https://www.instagram.com/a.02n/'>
+                        <FontAwesomeIcon icon={faInstagram} color="#4d4d4e" />
                     </a>
                 </li>
 
